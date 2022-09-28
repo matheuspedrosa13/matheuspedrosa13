@@ -1,7 +1,7 @@
 Oii! Eu sou Matheus Pedrosa
   
 - 🌱 Estudando HTML, CSS e JS
-- 📫 Contate-me no email: contatematheuspedrosa@gmail.com
+- 📫 Contate-me no email: matheuspmc13@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
