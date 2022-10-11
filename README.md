@@ -1,6 +1,6 @@
 Oii! Eu sou Matheus Pedrosa
   
-- 🌱 Estudando HTML, CSS e JS
+- 🌱 Estudando HTML, CSS, JS, Java e React
 - 📫 Contate-me no email: matheuspmc13@gmail.com
 - 😄 Pronouns: ele/dele
 
