@@ -1,8 +1,8 @@
 Oii! Eu sou Matheus Pedrosa
   
-- 🌱 Estudando HTML, CSS, JS, Java, React JS, Python, Devops e SQL
+- 🌱 Estudando HTML, CSS, JS, Java, React JS, Python, Devops, SQL e C#
+- 💻 Trabalhando com C# e Python
 - 📫 Contate-me no email: matheuspmc13@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/matheuspedrosa13">
