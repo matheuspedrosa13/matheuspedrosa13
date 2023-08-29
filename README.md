@@ -13,7 +13,7 @@ Oii! Eu sou Matheus Pedrosa
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"            src="https://media.discordapp.net/attachments/970233250524045375/970233349895487498/Design_sem_nome.gif?width=411&height=411">
+
   </div>
   
   ##
